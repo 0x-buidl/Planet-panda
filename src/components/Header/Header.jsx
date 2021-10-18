@@ -24,7 +24,7 @@ function Header(props) {
               ></button>
             </div>
             <ul className="navbar-nav fs-4 justify-content-end ms-2 mb-lg-0">
-              <li className="nav-item me-lg-2">
+              <li className="nav-item me-lg-2" data-bs-dismiss="offcanvas">
                 <a
                   className="nav-link"
                   href="#roadMap"
